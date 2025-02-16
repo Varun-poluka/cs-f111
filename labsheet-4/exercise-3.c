@@ -5,7 +5,7 @@ int main()
     int num;
     printf("enter the month number: ");
     scanf("%d", &num);
-
+//find the number of days in a month using its month number
     if(num>=1 || num<=12)
     {
         if(num==2)

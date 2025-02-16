@@ -5,7 +5,7 @@ int main()
     int marks;
     printf("enter the marks scored: ");
     scanf("%d", &marks);
-
+//assgining grades as per the given questions
     if(marks>=0 && marks<=10)
     {
         if(marks>=9)

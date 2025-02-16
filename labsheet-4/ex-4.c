@@ -1,6 +1,6 @@
 #include <stdio.h>
 #include <math.h>
-
+//calulator 
 int main()
 {
     float a, b, ans;
@@ -24,7 +24,7 @@ int main()
     }
     else if(op=='^')
     {
-        ans = pow(a,b);
+        ans = pow(a,b); // from the math library
         printf("%f %c %f = %f\n", a, op, b, ans);
     }    
     else
@@ -33,3 +33,4 @@ int main()
     } 
 
 }
+// based on different operator diff if is evaluated and expression under the if is calculated
