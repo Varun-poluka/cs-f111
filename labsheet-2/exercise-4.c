@@ -1,5 +1,5 @@
 #include <stdio.h>
-
+//calulating milleage 
 int main()
 {
     float a, b , diff, r;

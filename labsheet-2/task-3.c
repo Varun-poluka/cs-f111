@@ -1,5 +1,5 @@
 #include <stdio.h>
-
+// reading values and finding sum 
 int main()
 {
     int a, b, c,  sum; // initialising 

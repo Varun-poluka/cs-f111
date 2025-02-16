@@ -1,5 +1,5 @@
 #include <stdio.h>
-
+//printing values of a and b given 
 int main()
 {
     int a, b;//initialising a and b

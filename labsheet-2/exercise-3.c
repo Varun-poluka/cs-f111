@@ -1,6 +1,6 @@
 #include <stdio.h>
 
-
+//find the area of the circle 
 int main()
 {
     double r, a;

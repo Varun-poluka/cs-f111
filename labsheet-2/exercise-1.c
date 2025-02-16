@@ -1,5 +1,5 @@
 #include <stdio.h>
-
+//(a+b)^2 formula
 int main()
 {
     double a, b, sq; // initialising 
