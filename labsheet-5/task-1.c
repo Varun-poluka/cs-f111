@@ -2,22 +2,22 @@
 
 int main()
 {
-    float n;
-    double pi=0;
+    int n;
+    float pi=0;
 
     printf("number of terms ");
-    scanf("%f", &n);
+    scanf("%d", &n);
 
-    for (int i=1; i<=n; i++)
+    for (int i=0; i<n; i++)
     {
         if(i%2==0)
         {
-            pi = pi-(4/(2*i-1));
+            pi+=((4)/(float)(2*i+1));
         }
         else
         {
-            pi = pi+(4/(2*i-1));
+            pi-=((4)/(float)(2*i+1));
         }
     }
-    printf("%lf\n", pi);
+    printf("%f\n", pi);
 }
