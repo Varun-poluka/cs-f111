@@ -1,5 +1,5 @@
 #include <stdio.h>
-
+//average of user given numbers
 int main()
 {
     int n,  j;

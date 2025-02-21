@@ -1,5 +1,5 @@
 #include <stdio.h>
-
+//pettern
 int main()
 { 
     int n;

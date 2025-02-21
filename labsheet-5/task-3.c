@@ -1,5 +1,5 @@
 #include <stdio.h>
-
+//average of first 10 numbers
 int main()
 {
     int sum=0;

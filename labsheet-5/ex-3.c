@@ -1,5 +1,5 @@
 #include <stdio.h>
-
+//decimal to binary
 int main()
 {
     int decimal;

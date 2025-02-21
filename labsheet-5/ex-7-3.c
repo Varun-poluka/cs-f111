@@ -1,5 +1,5 @@
 #include <stdio.h>
-
+//pattern
 int main()
 {
     int n;

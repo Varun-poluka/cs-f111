@@ -1,5 +1,5 @@
 #include <stdio.h>
-
+//prime numbers between 1-100
 int main()
 {
     int prime;

@@ -1,5 +1,5 @@
 #include <stdio.h>
-
+//first n prime numbers
 int main()
 {
     int n, num=2,count=0,prime;

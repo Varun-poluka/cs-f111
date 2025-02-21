@@ -1,5 +1,5 @@
 #include <stdio.h>
-
+//2-5 tables
 int main()
 {
     int i,j,k;
