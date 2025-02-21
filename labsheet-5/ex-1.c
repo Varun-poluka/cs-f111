@@ -1,5 +1,5 @@
 #include <stdio.h>
-
+//number is palindrome or not 
 int main()
 {
     int n, b=0, c;
