@@ -1,5 +1,5 @@
 #include <stdio.h>
-
+//sum of all multiples of 3 and 5 till 1000
 int main()
 {
     int n=1000,sum=0;

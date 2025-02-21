@@ -1,5 +1,5 @@
 #include <stdio.h>
-
+//least number divisible by 1-20
 int main()
 {
     for(int n=1; n>0; n++)

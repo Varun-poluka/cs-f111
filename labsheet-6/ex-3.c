@@ -1,5 +1,5 @@
 #include <stdio.h>
-
+//sum of even fibonocci series numbers with maximum value of 4000000
 int main()
 {
     int  a=0, b=1, sum=0, c=0;

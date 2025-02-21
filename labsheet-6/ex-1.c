@@ -1,5 +1,5 @@
 #include <stdio.h>
-
+//difference between square of sum and sum of square of 100 numbers
 int main()
 {
     int n=100;

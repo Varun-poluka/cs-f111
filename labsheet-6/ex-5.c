@@ -1,5 +1,5 @@
 #include <stdio.h>
-
+//sum of cubes of individual numbers in a number adds up to the same number
 int main()
 {
     int n;
