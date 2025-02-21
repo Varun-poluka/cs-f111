@@ -1,5 +1,5 @@
 #include <stdio.h>
-
+//sum of three numbers
 int main()
 {
     int n, sum=0;

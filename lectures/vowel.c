@@ -1,5 +1,5 @@
 #include <stdio.h>
-
+//finding if vowel or consonant
 int main()
 {
     char ch;

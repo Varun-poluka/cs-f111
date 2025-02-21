@@ -1,5 +1,5 @@
 #include <stdio.h>
-
+//pattern of a right sided triangle
 int main()
 {
     int n;

@@ -1,5 +1,5 @@
 #include <stdio.h>
-
+//grid patten
 int main()
 {
     int n, m;

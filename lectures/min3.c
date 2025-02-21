@@ -1,5 +1,5 @@
 #include <stdio.h>
-
+// minimum of three numbers
 int main()
 {
     int a, b, c, min;

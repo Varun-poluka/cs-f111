@@ -1,5 +1,5 @@
 #include <stdio.h>
-
+//extrema of two numbers
 int main()
 {
     int a, b, max, min;

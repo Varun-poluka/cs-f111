@@ -1,5 +1,5 @@
 #include <stdio.h>
-
+//factorial of a given number
 int main()
 {
     int n, factorial;

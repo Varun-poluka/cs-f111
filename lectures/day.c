@@ -1,5 +1,5 @@
 #include <stdio.h>
-
+//day name based on number
 int main()
 {
     int a;

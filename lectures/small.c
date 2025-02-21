@@ -1,5 +1,5 @@
 #include <stdio.h>
-
+//finding smaller of two number
 int main()
 {
     int a , b;

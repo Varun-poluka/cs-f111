@@ -1,5 +1,5 @@
 #include <stdio.h>
-
+//interchanging uppercase to lowercase and vice-versa
 int main()
 {
     char ch;

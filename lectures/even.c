@@ -1,5 +1,5 @@
 #include <stdio.h>
-
+//finding if number is even or not
 int main()
 {
     int n;
