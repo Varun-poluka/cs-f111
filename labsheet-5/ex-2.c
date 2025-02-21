@@ -1,5 +1,5 @@
 #include <stdio.h>
-
+//sum of inidividual number in a number given by the user
 int main()
 {
     int n, sum=0;
