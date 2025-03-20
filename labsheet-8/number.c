@@ -7,6 +7,7 @@ int main()
     printf("enter the number: ");
     scanf("%d", &n);
     number(n);//calling the function
+    printf("\n");
 }
 int number(int n)//defining the function
 {
@@ -15,7 +16,6 @@ int number(int n)//defining the function
         return 1;
     }
     printf("%d ", n);
-    printf("\n");
     number(n-1);//reccursion 
     return 0;
 }
