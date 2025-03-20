@@ -1,22 +1,21 @@
 #include <stdio.h>
-int number (int);
+//using recurssive function print number from n to 1  where n is input from user
+int number(int n);//declaring a function
 int main()
 {
     int n;
     printf("enter the number: ");
     scanf("%d", &n);
-    number(n);
+    number(n);//calling the function
 }
-int number(int n)
+int number(int n)//defining the function
 {
-    int i=n;
-    if(i==1)
+    if(n==0)//base case 
     {
         return 1;
     }
-    else
-    {
-        printf("%d %d",i, number(i-1));
-        return 0;
-    }
+    printf("%d ", n);
+    printf("\n");
+    number(n-1);//reccursion 
+    return 0;
 }
