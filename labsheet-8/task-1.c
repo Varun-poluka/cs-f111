@@ -15,7 +15,7 @@ int main()
         printf("three points are co-linear\n");
     }
 }
-int colinear(int x1, int y1, int x2, int y2, int x3, int y3)
+int colinear(int x1, int y1, int x2, int y2, int x3, int y3)//defining the function
 {
    int area;
    area = (x1*(y2-y3)+x2*(y3-y1)+x3*(y1-y2))/2;
